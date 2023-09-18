@@ -1,2 +1,2 @@
 # projetosAlura
-alguns projetos feitos com base em cursos na plataforma alura
+Projeto feito com base em cursos na plataforma alura
